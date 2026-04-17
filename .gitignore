@@ -1,0 +1,47 @@
+# Datasets (not tracked; see README for download instructions)
+SimulatedNoisyOffice/
+RealNoisyOffice/
+case_data/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+build/
+dist/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PyTorch / model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+stage1_ocr/weights/
+benchmarks/results/
+
+# Logs & experiment tracking
+*.log
+wandb/
+runs/
+lightning_logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS / misc
+*.swp
+*.swo
