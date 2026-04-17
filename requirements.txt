@@ -1,0 +1,20 @@
+# Core ML
+torch
+torchvision
+numpy
+pillow
+
+# OCR label generation
+pytesseract
+
+# Microservices
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Metrics
+python-Levenshtein
+
+# Notebooks / dev
+jupyter
+matplotlib
