@@ -1,42 +1,18 @@
-"""Adaptive Huffman coding — FGK algorithm (Faller, Gallager, Knuth).
-
-Public API:
-    encode(text: str) -> bytes
-    decode(payload: bytes) -> str
-
-Both encoder and decoder maintain an identical tree that grows in lockstep,
-so no frequency table is transmitted.  A NYT ("Not Yet Transmitted") leaf
-represents all unseen symbols; the first occurrence of a byte is sent as
-NYT-code + 8 raw bits.
-
-Sibling property invariant: nodes listed in non-decreasing weight order have
-strictly increasing order numbers; siblings are adjacent in that listing.
-
-Wire format: 4-byte big-endian byte count || BitWriter payload.
-"""
-
 from __future__ import annotations
 
 import struct
 from .bitio import BitWriter, BitReader
 
-# NYT starts at the top of the order space.
-# Each split consumes 2 order slots below the current NYT, so
-# 2 * 256 + 1 = 513 slots are sufficient for a 256-symbol alphabet.
+# 2*256+1 order slots cover a full 256-symbol alphabet
 _INIT_ORDER = 512
 
 
 class _Node:
     __slots__ = ("weight", "parent", "left", "right", "symbol", "order")
 
-    def __init__(
-        self,
-        weight: int = 0,
-        symbol: int | None = None,
-        order: int = 0,
-    ) -> None:
+    def __init__(self, weight: int = 0, symbol: int | None = None, order: int = 0) -> None:
         self.weight = weight
-        self.symbol = symbol   # byte value for leaves; None for internal nodes
+        self.symbol = symbol
         self.order = order
         self.parent: _Node | None = None
         self.left: _Node | None = None
@@ -47,15 +23,10 @@ class _FGKTree:
     def __init__(self) -> None:
         self.nyt = _Node(order=_INIT_ORDER)
         self.root = self.nyt
-        self._sym: dict[int, _Node] = {}           # symbol -> leaf node
+        self._sym: dict[int, _Node] = {}
         self._omap: dict[int, _Node] = {_INIT_ORDER: self.nyt}
 
-    # ------------------------------------------------------------------
-    # Internal helpers
-    # ------------------------------------------------------------------
-
     def _code(self, node: _Node) -> list[int]:
-        """Return the bit path from root to node (0=left, 1=right)."""
         bits: list[int] = []
         while node.parent is not None:
             bits.append(0 if node.parent.left is node else 1)
@@ -63,7 +34,6 @@ class _FGKTree:
         return bits[::-1]
 
     def _leader(self, node: _Node) -> _Node:
-        """Highest-order node in node's weight block (may be node itself)."""
         best = node
         for n in self._omap.values():
             if n.weight == node.weight and n.order > best.order:
@@ -71,19 +41,14 @@ class _FGKTree:
         return best
 
     def _swap(self, a: _Node, b: _Node) -> None:
-        """Exchange a and b in the tree, including their order numbers."""
-        # Swap order numbers (order is a property of the tree position).
         a.order, b.order = b.order, a.order
         self._omap[a.order] = a
         self._omap[b.order] = b
 
-        # Swap tree positions.
         ap, bp = a.parent, b.parent
         if ap is bp:
-            # Siblings — just flip left/right under the shared parent.
             ap.left, ap.right = ap.right, ap.left
         else:
-            (ap.left if ap.left is a else None)  # noqa: unused
             if ap.left is a:
                 ap.left = b
             else:
@@ -95,7 +60,6 @@ class _FGKTree:
             a.parent, b.parent = bp, ap
 
     def _update(self, node: _Node) -> None:
-        """Slide-and-increment from node up to the root."""
         while node is not None:
             leader = self._leader(node)
             if leader is not node and leader is not node.parent:
@@ -104,13 +68,8 @@ class _FGKTree:
             node = node.parent  # type: ignore[assignment]
 
     def _split_nyt(self, symbol: int) -> _Node:
-        """Replace the current NYT leaf with an internal node.
-
-        The internal node's left child becomes the new NYT, its right child
-        becomes the new symbol leaf.  Returns the new leaf.
-        """
         order = self.nyt.order
-        internal = self.nyt          # reuse node object in-place
+        internal = self.nyt
         internal.symbol = None
 
         new_nyt = _Node(order=order - 2)
@@ -127,10 +86,6 @@ class _FGKTree:
         self.nyt = new_nyt
         self._sym[symbol] = new_leaf
         return new_leaf
-
-    # ------------------------------------------------------------------
-    # Encode / decode one symbol
-    # ------------------------------------------------------------------
 
     def encode_sym(self, symbol: int, bw: BitWriter) -> None:
         if symbol in self._sym:
@@ -163,12 +118,7 @@ class _FGKTree:
         return symbol
 
 
-# ------------------------------------------------------------------
-# Public API
-# ------------------------------------------------------------------
-
 def encode(text: str) -> bytes:
-    """Compress *text* and return the wire-format bytes."""
     data = text.encode("utf-8")
     bw = BitWriter()
     tree = _FGKTree()
@@ -178,9 +128,8 @@ def encode(text: str) -> bytes:
 
 
 def decode(compressed: bytes) -> str:
-    """Decompress bytes produced by :func:`encode`."""
     if len(compressed) < 4:
-        raise ValueError("compressed data too short (missing length header)")
+        raise ValueError("compressed data too short")
     n_bytes: int = struct.unpack(">I", compressed[:4])[0]
     br = BitReader(compressed[4:])
     tree = _FGKTree()
