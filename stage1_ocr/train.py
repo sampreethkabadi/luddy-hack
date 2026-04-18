@@ -67,10 +67,16 @@ def apply_random_noise(images):
 # Data
 # ---------------------------------------------------------------------------
 
+class _TransposeEMNIST:
+    """Picklable replacement for lambda x: x.transpose(1, 2)."""
+    def __call__(self, x):
+        return x.transpose(1, 2)
+
+
 def load_emnist():
     transform = transforms.Compose([
         transforms.ToTensor(),
-        transforms.Lambda(lambda x: x.transpose(1, 2)),  # fix EMNIST orientation
+        _TransposeEMNIST(),   # fix EMNIST orientation (must be picklable)
     ])
     print("Loading EMNIST (downloads on first run) ...")
     kw = dict(root="./data", split="byclass", download=True, transform=transform)
@@ -78,8 +84,8 @@ def load_emnist():
     te_ds = torchvision.datasets.EMNIST(train=False, **kw)
 
     tr_loader = DataLoader(tr_ds, batch_size=BATCH_SIZE, shuffle=True,
-                           num_workers=2, pin_memory=(DEVICE.type == "cuda"))
-    te_loader = DataLoader(te_ds, batch_size=BATCH_SIZE, shuffle=False, num_workers=2)
+                           num_workers=0, pin_memory=(DEVICE.type == "cuda"))
+    te_loader = DataLoader(te_ds, batch_size=BATCH_SIZE, shuffle=False, num_workers=0)
 
     print(f"  Train: {len(tr_ds):,} samples  |  Test: {len(te_ds):,} samples")
     return tr_loader, te_loader
