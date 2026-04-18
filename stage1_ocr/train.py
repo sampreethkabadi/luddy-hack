@@ -30,7 +30,7 @@ from stage1_ocr.model import OCRNet, EMNIST_LABELS
 # ---------------------------------------------------------------------------
 
 BATCH_SIZE   = 128
-EPOCHS       = 10
+EPOCHS       = 20
 LR           = 0.001
 NUM_CLASSES  = 62
 DEVICE       = torch.device("cuda" if torch.cuda.is_available() else "cpu")
