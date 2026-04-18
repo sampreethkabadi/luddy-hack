@@ -1,0 +1,932 @@
+{
+  "FontLre_TE": {
+    "full": "A new offline handwritten database for\nguage, which contains full Spanish senter\nbeen developed: the Spartacus database (\nSpanish Restricted-domain Task of Cursi\nwere two main reasons for creating this\nall, most databases do not contain Spanis\nthough Spanish is a widespread major la’\nemportant reason was to create @ corpu:\nrestricted tasks. These tasks are commonl:\nand allow the use of linguistic knowledge b\nlevel in the recognition process.",
+    "lines": [
+      "A new offline handwritten database for",
+      "guage, which contains full Spanish senter",
+      "been developed: the Spartacus database (",
+      "Spanish Restricted-domain Task of Cursi",
+      "were two main reasons for creating this",
+      "all, most databases do not contain Spanis",
+      "though Spanish is a widespread major la’",
+      "emportant reason was to create @ corpu:",
+      "restricted tasks. These tasks are commonl:",
+      "and allow the use of linguistic knowledge b",
+      "level in the recognition process."
+    ]
+  },
+  "FontLre_TR": {
+    "full": "There exist several methods to design\nto be filled in. For instance, fields may\nbounding boxes, by light rectangles or b\nThese methods specify where to write and\nmize the effect of skew and overlapping w\nthe form. These guides can be located on a\npaper that is located below the form or th\ndirectly on the form. The use of guides or\nis much better from the point of view of |\nscanned image, but requires giving more\nmore importantly, restricts its use to tasks",
+    "lines": [
+      "There exist several methods to design",
+      "to be filled in. For instance, fields may",
+      "bounding boxes, by light rectangles or b",
+      "These methods specify where to write and",
+      "mize the effect of skew and overlapping w",
+      "the form. These guides can be located on a",
+      "paper that is located below the form or th",
+      "directly on the form. The use of guides or",
+      "is much better from the point of view of |",
+      "scanned image, but requires giving more",
+      "more importantly, restricts its use to tasks"
+    ]
+  },
+  "FontLre_VA": {
+    "full": "There are several classic spatial filter:\neliminating high frequency noise from im\nfilter, the median filter and the closing «\nfrequently used. The mean filter is a lowr\nfilter that replaces the pixel values with\nmean. It reduces the image noise but blurs\nThe median filter calculates the median o\nborhood for each pixel, thereby reducing tl\nFinally, the opening closing filter is a m\nphological filter that combines the same n\nand dilation morphological operations in c",
+    "lines": [
+      "There are several classic spatial filter:",
+      "eliminating high frequency noise from im",
+      "filter, the median filter and the closing «",
+      "frequently used. The mean filter is a lowr",
+      "filter that replaces the pixel values with",
+      "mean. It reduces the image noise but blurs",
+      "The median filter calculates the median o",
+      "borhood for each pixel, thereby reducing tl",
+      "Finally, the opening closing filter is a m",
+      "phological filter that combines the same n",
+      "and dilation morphological operations in c"
+    ]
+  },
+  "FontLrm_TE": {
+    "full": "A new offline handwritten database for\nguage, which contains full Spanish senter\nbeen developed: the Spartacus database (\nSpanish Restricted-domain Task of Cursin\nwere two main reasons for creating this\nall, most databases do not contain Spanis\nthough Spanish is a widespread major la:\nimportant reason was to create a corpu:\nrestricted tasks. These tasks are commo!\ntice and allow the use of linguistic know]\nlexicon level in the recognition process.",
+    "lines": [
+      "A new offline handwritten database for",
+      "guage, which contains full Spanish senter",
+      "been developed: the Spartacus database (",
+      "Spanish Restricted-domain Task of Cursin",
+      "were two main reasons for creating this",
+      "all, most databases do not contain Spanis",
+      "though Spanish is a widespread major la:",
+      "important reason was to create a corpu:",
+      "restricted tasks. These tasks are commo!",
+      "tice and allow the use of linguistic know]",
+      "lexicon level in the recognition process."
+    ]
+  },
+  "FontLrm_TR": {
+    "full": "There exist several methods to design\nto be filled in. For instance, fields may k\nbounding boxes, by light rectangles or b\nThese methods specify where to write and\nmize the effect of skew and overlapping w\nthe form. These guides can be located on a\npaper that is located below the form or th\ndirectly on the form. The use of guides on\nis much better from the point of view of t\nscanned image, but requires giving more\nmore importantly, restricts its use to task",
+    "lines": [
+      "There exist several methods to design",
+      "to be filled in. For instance, fields may k",
+      "bounding boxes, by light rectangles or b",
+      "These methods specify where to write and",
+      "mize the effect of skew and overlapping w",
+      "the form. These guides can be located on a",
+      "paper that is located below the form or th",
+      "directly on the form. The use of guides on",
+      "is much better from the point of view of t",
+      "scanned image, but requires giving more",
+      "more importantly, restricts its use to task"
+    ]
+  },
+  "FontLrm_VA": {
+    "full": "There are several classic spatial filters\neliminating high frequency noise from im\nfilter, the median filter and the closing ¢\nfrequently used. The mean filter is a lowp\nfilter that replaces the pixel values with t\nmean. It reduces the image noise but blurs\nThe median filter calculates the median o\nborhood for each pixel, thereby reducing t!\nFinally, the opening closing filter is a mé\nphological filter that combines the same n\nand dilation morphological operations in ¢",
+    "lines": [
+      "There are several classic spatial filters",
+      "eliminating high frequency noise from im",
+      "filter, the median filter and the closing ¢",
+      "frequently used. The mean filter is a lowp",
+      "filter that replaces the pixel values with t",
+      "mean. It reduces the image noise but blurs",
+      "The median filter calculates the median o",
+      "borhood for each pixel, thereby reducing t!",
+      "Finally, the opening closing filter is a mé",
+      "phological filter that combines the same n",
+      "and dilation morphological operations in ¢"
+    ]
+  },
+  "FontLse_TE": {
+    "full": "A new offline handwritten database for\nguage, which contains full Spanish senter\nbeen developed: the Spartacus database |\nSpanish Restricted-domain Task of Cursiv\nwere two main reasons for creating this co\nmost databases do not contain Spanish sente\nSpanish is a widespread major language. /\nreason was to create a corpus from semanti\nThese tasks are commonly used in practice\nof linguistic knowledge beyond the lexicon |\nnition process.",
+    "lines": [
+      "A new offline handwritten database for",
+      "guage, which contains full Spanish senter",
+      "been developed: the Spartacus database |",
+      "Spanish Restricted-domain Task of Cursiv",
+      "were two main reasons for creating this co",
+      "most databases do not contain Spanish sente",
+      "Spanish is a widespread major language. /",
+      "reason was to create a corpus from semanti",
+      "These tasks are commonly used in practice",
+      "of linguistic knowledge beyond the lexicon |",
+      "nition process."
+    ]
+  },
+  "FontLse_TR": {
+    "full": "There exist several methods to design fo\nbe filled in. For instance, fields may be surr\ning boxes, by light rectangles or by guiding rt\nods specify where to write and, therefore, n\nof skew and overlapping with other parts o\nguides can be located on a separate sheet\nlocated below the form or they can be print\nform. The use of guides on a separate she\nfrom the point of view of the quality of th\nbut requires giving more instructions and,\nrestricts its use to tasks where this type of a",
+    "lines": [
+      "There exist several methods to design fo",
+      "be filled in. For instance, fields may be surr",
+      "ing boxes, by light rectangles or by guiding rt",
+      "ods specify where to write and, therefore, n",
+      "of skew and overlapping with other parts o",
+      "guides can be located on a separate sheet",
+      "located below the form or they can be print",
+      "form. The use of guides on a separate she",
+      "from the point of view of the quality of th",
+      "but requires giving more instructions and,",
+      "restricts its use to tasks where this type of a"
+    ]
+  },
+  "FontLse_VA": {
+    "full": "There are several classic spatial filters for\ninating high frequency noise from images.\nthe median filter and the closing opening fi\nused. The mean filter is a lowpass or smc\nreplaces the pixel values with the neighbor\nduces the image noise but blurs the image e\nfilter calculates the median of the pixel neigi\npixel, thereby reducing the blurring effect. F\nclosing filter is a mathematical morphologic\nbines the same number of erosion and dilat\noperations in order to eliminate small objec",
+    "lines": [
+      "There are several classic spatial filters for",
+      "inating high frequency noise from images.",
+      "the median filter and the closing opening fi",
+      "used. The mean filter is a lowpass or smc",
+      "replaces the pixel values with the neighbor",
+      "duces the image noise but blurs the image e",
+      "filter calculates the median of the pixel neigi",
+      "pixel, thereby reducing the blurring effect. F",
+      "closing filter is a mathematical morphologic",
+      "bines the same number of erosion and dilat",
+      "operations in order to eliminate small objec"
+    ]
+  },
+  "FontLsm_TE": {
+    "full": "A new offline handwritten database for\nguage, which contains full Spanish senten\nbeen developed: the Spartacus database |\nSpanish Restricted-domain Task of Cursiv\nwere two main reasons for creating this co\nmost databases do not contain Spanish sente\nSpanish is a widespread major language. A\nreason was to create a corpus from semanti\nThese tasks are commonly used in practice\nof linguistic knowledge beyond the lexicon |\nnition process.",
+    "lines": [
+      "A new offline handwritten database for",
+      "guage, which contains full Spanish senten",
+      "been developed: the Spartacus database |",
+      "Spanish Restricted-domain Task of Cursiv",
+      "were two main reasons for creating this co",
+      "most databases do not contain Spanish sente",
+      "Spanish is a widespread major language. A",
+      "reason was to create a corpus from semanti",
+      "These tasks are commonly used in practice",
+      "of linguistic knowledge beyond the lexicon |",
+      "nition process."
+    ]
+  },
+  "FontLsm_TR": {
+    "full": "There exist several methods to design fo\nbe filled in. For instance, fields may be surr\ning boxes, by light rectangles or by guiding ru\nods specify where to write and, therefore,\nof skew and overlapping with other parts ot\nguides can be located on a separate sheet\nlocated below the form or they can be print\nform. The use of guides on a separate she\nfrom the point of view of the quality of th\nbut requires giving more instructions and, |\nrestricts its use to tasks where this type of a",
+    "lines": [
+      "There exist several methods to design fo",
+      "be filled in. For instance, fields may be surr",
+      "ing boxes, by light rectangles or by guiding ru",
+      "ods specify where to write and, therefore,",
+      "of skew and overlapping with other parts ot",
+      "guides can be located on a separate sheet",
+      "located below the form or they can be print",
+      "form. The use of guides on a separate she",
+      "from the point of view of the quality of th",
+      "but requires giving more instructions and, |",
+      "restricts its use to tasks where this type of a"
+    ]
+  },
+  "FontLsm_VA": {
+    "full": "There are several classic spatial filters for\ninating high frequency noise from images.\nthe median filter and the closing opening fi\nused. The mean filter is a lowpass or smc\nreplaces the pixel values with the neighbort\nduces the image noise but blurs the image e\nfilter calculates the median of the pixel neig|\npixel, thereby reducing the blurring effect. F\nclosing filter is a mathematical morphologic\nbines the same number of erosion and dilat\noperations in order to eliminate small objec’",
+    "lines": [
+      "There are several classic spatial filters for",
+      "inating high frequency noise from images.",
+      "the median filter and the closing opening fi",
+      "used. The mean filter is a lowpass or smc",
+      "replaces the pixel values with the neighbort",
+      "duces the image noise but blurs the image e",
+      "filter calculates the median of the pixel neig|",
+      "pixel, thereby reducing the blurring effect. F",
+      "closing filter is a mathematical morphologic",
+      "bines the same number of erosion and dilat",
+      "operations in order to eliminate small objec’"
+    ]
+  },
+  "FontLte_TE": {
+    "full": "A new offline handwritten databc\nLanguage, which contains full Span\nhas recently been developed: the\n(which stands for Spanish Restrict\nof Cursive Script). There were tu\nfor creating this corpus. First o\ndo not contain Spanish sentences,\nts a widespread major language. A\nreason was to create a corpus fron\ntasks. These tasks are commonly u\nand allow the use of linguistic kn",
+    "lines": [
+      "A new offline handwritten databc",
+      "Language, which contains full Span",
+      "has recently been developed: the",
+      "(which stands for Spanish Restrict",
+      "of Cursive Script). There were tu",
+      "for creating this corpus. First o",
+      "do not contain Spanish sentences,",
+      "ts a widespread major language. A",
+      "reason was to create a corpus fron",
+      "tasks. These tasks are commonly u",
+      "and allow the use of linguistic kn"
+    ]
+  },
+  "FontLte_TR": {
+    "full": "There exist several methods to ¢\nfields to be filled in. For insta\nbe surrounded by bounding bozes, b\nor by guiding rulers. These metho\nto write and, therefore, minimize\nand overlapping with other parts o\nguides can be located on a separat\nthat ts located below the form or\ndirectly on the form. The use of\nsheet ts much better from the powin\nquality of the scanned image, but",
+    "lines": [
+      "There exist several methods to ¢",
+      "fields to be filled in. For insta",
+      "be surrounded by bounding bozes, b",
+      "or by guiding rulers. These metho",
+      "to write and, therefore, minimize",
+      "and overlapping with other parts o",
+      "guides can be located on a separat",
+      "that ts located below the form or",
+      "directly on the form. The use of",
+      "sheet ts much better from the powin",
+      "quality of the scanned image, but"
+    ]
+  },
+  "FontLte_VA": {
+    "full": "There are several classic spatic\nor eliminating high frequency nois\nThe mean filter, the median filter\nopening filter are frequently used\n47s a lowpass or smoothing filter t\nprzel values with the neighborhood\nthe w~mage norse but blurs the imag\nfilter calculates the median of th\nfor each pixel, thereby reducing t\nFinally, the opening closing filte\nmorphological filter that combines",
+    "lines": [
+      "There are several classic spatic",
+      "or eliminating high frequency nois",
+      "The mean filter, the median filter",
+      "opening filter are frequently used",
+      "47s a lowpass or smoothing filter t",
+      "przel values with the neighborhood",
+      "the w~mage norse but blurs the imag",
+      "filter calculates the median of th",
+      "for each pixel, thereby reducing t",
+      "Finally, the opening closing filte",
+      "morphological filter that combines"
+    ]
+  },
+  "FontLtm_TE": {
+    "full": "A new offline handwritten databa:\nlanguage, which contains full Spani\nrecently been developed: the Spart\nstands for Spanish Restricted-doma:\nScript). There were two main reas¢\nthis corpus. First of all, most dé\ncontain Spanish sentences, even th«\na widespread major language. Anotl\nwas to create a corpus from semant:\nThese tasks are commonly used in pi\nthe use of linguistic knowledge bey",
+    "lines": [
+      "A new offline handwritten databa:",
+      "language, which contains full Spani",
+      "recently been developed: the Spart",
+      "stands for Spanish Restricted-doma:",
+      "Script). There were two main reas¢",
+      "this corpus. First of all, most dé",
+      "contain Spanish sentences, even th«",
+      "a widespread major language. Anotl",
+      "was to create a corpus from semant:",
+      "These tasks are commonly used in pi",
+      "the use of linguistic knowledge bey"
+    ]
+  },
+  "FontLtm_TR": {
+    "full": "There exist several methods to d\nfields to be filled in. For instar\nbe surrounded by bounding boxes, by\nor by guiding rulers. These methoc\nto write and, therefore, minimize t\nand overlapping with other parts of\nguides can be located on a separate\nthat is located below the form or t\ndirectly on the form. The use of §\nsheet is much better from the point\nquality of the scanned image, but 1",
+    "lines": [
+      "There exist several methods to d",
+      "fields to be filled in. For instar",
+      "be surrounded by bounding boxes, by",
+      "or by guiding rulers. These methoc",
+      "to write and, therefore, minimize t",
+      "and overlapping with other parts of",
+      "guides can be located on a separate",
+      "that is located below the form or t",
+      "directly on the form. The use of §",
+      "sheet is much better from the point",
+      "quality of the scanned image, but 1"
+    ]
+  },
+  "FontLtm_VA": {
+    "full": "There are several classic spatia.\nor eliminating high frequency noises\nmean filter, the median filter and\nfilter are frequently used. The me\nlowpass or smoothing filter that re\nvalues with the neighborhood mean.\nimage noise but blurs the image edg\nfilter calculates the median of the\nfor each pixel, thereby reducing tl\nFinally, the opening closing filte1\nmorphological filter that combines",
+    "lines": [
+      "There are several classic spatia.",
+      "or eliminating high frequency noises",
+      "mean filter, the median filter and",
+      "filter are frequently used. The me",
+      "lowpass or smoothing filter that re",
+      "values with the neighborhood mean.",
+      "image noise but blurs the image edg",
+      "filter calculates the median of the",
+      "for each pixel, thereby reducing tl",
+      "Finally, the opening closing filte1",
+      "morphological filter that combines"
+    ]
+  },
+  "Fontfre_TE": {
+    "full": "A new offline handwritten database for the Spanish language\nash sentences, has recently been developed: the Spartacus databa:\nish Restricted-domain Task of Cursive Script). There were two\nthis corpus. First of all, most databases do not contain Spani:\nSpanish is a widespread major language. Another important rea:\nfrom semantic-restricted tasks. These tasks are commonly used\nuse of linguistic knowledge beyond the lexicon level in the recog\nAs the Spartacus database consisted mainly of short sentence\nparagraphs, the writers were asked to copy a set of sentences in f\nline fields in the forms. Neat figure shows one of the forms used\nThese forms also contain a brief set of instructions given to the",
+    "lines": [
+      "A new offline handwritten database for the Spanish language",
+      "ash sentences, has recently been developed: the Spartacus databa:",
+      "ish Restricted-domain Task of Cursive Script). There were two",
+      "this corpus. First of all, most databases do not contain Spani:",
+      "Spanish is a widespread major language. Another important rea:",
+      "from semantic-restricted tasks. These tasks are commonly used",
+      "use of linguistic knowledge beyond the lexicon level in the recog",
+      "As the Spartacus database consisted mainly of short sentence",
+      "paragraphs, the writers were asked to copy a set of sentences in f",
+      "line fields in the forms. Neat figure shows one of the forms used",
+      "These forms also contain a brief set of instructions given to the"
+    ]
+  },
+  "Fontfre_TR": {
+    "full": "There exist several methods to design forms with fields to\nfields may be surrounded by bounding boxes, by light rectangles o\nmethods specify where to write and, therefore, minimize the effe\nwith other parts of the form. These guides can be located on as\nis located below the form or they can be printed directly on the f\na separate sheet is much better from the point of view of the que\nbut requires giving more instructions and, more importantly, rest\nthis type of acquisition is used. Guiding rulers printed on the\nused for this reason. Light rectangles can be removed more easily\nwhenever the handwritten teat touches the rulers. Nevertheless, |\nbe taken into account: The best way to print these light rectan",
+    "lines": [
+      "There exist several methods to design forms with fields to",
+      "fields may be surrounded by bounding boxes, by light rectangles o",
+      "methods specify where to write and, therefore, minimize the effe",
+      "with other parts of the form. These guides can be located on as",
+      "is located below the form or they can be printed directly on the f",
+      "a separate sheet is much better from the point of view of the que",
+      "but requires giving more instructions and, more importantly, rest",
+      "this type of acquisition is used. Guiding rulers printed on the",
+      "used for this reason. Light rectangles can be removed more easily",
+      "whenever the handwritten teat touches the rulers. Nevertheless, |",
+      "be taken into account: The best way to print these light rectan"
+    ]
+  },
+  "Fontfre_VA": {
+    "full": "There are several classic spatial filters for reducing or elimin\nfrom images. The mean filter, the median filter and the closing o\nused. The mean filter is a lowpass or smoothing filter that rep\nthe neighborhood mean. It reduces the image noise but blurs the\nfilter calculates the median of the pixel neighborhood for each j\nblurring effect. Finally, the opening closing filter is a mathem\nthat combines the same number of erosion and dilation morpho\nto eliminate small objects from images.\nThe main goal was to train a neural network in a supervise\nimage from a noisy one. In this particular case, it was much ec\nnoisy image from a clean one than to clean a subset of noisy",
+    "lines": [
+      "There are several classic spatial filters for reducing or elimin",
+      "from images. The mean filter, the median filter and the closing o",
+      "used. The mean filter is a lowpass or smoothing filter that rep",
+      "the neighborhood mean. It reduces the image noise but blurs the",
+      "filter calculates the median of the pixel neighborhood for each j",
+      "blurring effect. Finally, the opening closing filter is a mathem",
+      "that combines the same number of erosion and dilation morpho",
+      "to eliminate small objects from images.",
+      "The main goal was to train a neural network in a supervise",
+      "image from a noisy one. In this particular case, it was much ec",
+      "noisy image from a clean one than to clean a subset of noisy"
+    ]
+  },
+  "Fontfrm_TE": {
+    "full": "A new offline handwritten database for the Spanish lang\nSpanish sentences, has recently been developed: the Spartacu\nfor Spanish Restricted-domain Task of Cursive Script). There \\\ncreating this corpus. First of all, most databases do not contai\nthough Spanish is a widespread major language. Another impo\na corpus from semantic-restricted tasks. These tasks are comm\nallow the use of linguistic knowledge beyond the lexicon level it\nAs the Spartacus database consisted mainly of short sente\nlong paragraphs, the writers were asked to copy a set of sentences\none-line fields in the forms. Next figure shows one of the forn\nprocess. These forms also contain a brief set of instructions giv",
+    "lines": [
+      "A new offline handwritten database for the Spanish lang",
+      "Spanish sentences, has recently been developed: the Spartacu",
+      "for Spanish Restricted-domain Task of Cursive Script). There \\",
+      "creating this corpus. First of all, most databases do not contai",
+      "though Spanish is a widespread major language. Another impo",
+      "a corpus from semantic-restricted tasks. These tasks are comm",
+      "allow the use of linguistic knowledge beyond the lexicon level it",
+      "As the Spartacus database consisted mainly of short sente",
+      "long paragraphs, the writers were asked to copy a set of sentences",
+      "one-line fields in the forms. Next figure shows one of the forn",
+      "process. These forms also contain a brief set of instructions giv"
+    ]
+  },
+  "Fontfrm_TR": {
+    "full": "There exist several methods to design forms with fields to\nfields may be surrounded by bounding boxes, by light rectan,\nThese methods specify where to write and, therefore, minimi\noverlapping with other parts of the form. These guides can\nsheet of paper that is located below the form or they can b\nform. The use of guides on a separate sheet is much better fror\nquality of the scanned image, but requires giving more instructio\nrestricts its use to tasks where this type of acquisition is used.\nthe form are more commonly used for this reason. Light re\nmore easily with filters than dark lines whenever the handwritt:\nNevertheless, other practical issues must be taken into accoun",
+    "lines": [
+      "There exist several methods to design forms with fields to",
+      "fields may be surrounded by bounding boxes, by light rectan,",
+      "These methods specify where to write and, therefore, minimi",
+      "overlapping with other parts of the form. These guides can",
+      "sheet of paper that is located below the form or they can b",
+      "form. The use of guides on a separate sheet is much better fror",
+      "quality of the scanned image, but requires giving more instructio",
+      "restricts its use to tasks where this type of acquisition is used.",
+      "the form are more commonly used for this reason. Light re",
+      "more easily with filters than dark lines whenever the handwritt:",
+      "Nevertheless, other practical issues must be taken into accoun"
+    ]
+  },
+  "Fontfrm_VA": {
+    "full": "There are several classic spatial filters for reducing or elimin.\nfrom images. The mean filter, the median filter and the closing oj\nused. The mean filter is a lowpass or smoothing filter that repl\nthe neighborhood mean. It reduces the image noise but blurs the\nfilter calculates the median of the pixel neighborhood for each p\nblurring effect. Finally, the opening closing filter is a mathem:\nthat combines the same number of erosion and dilation morpho!\nto eliminate small objects from images.\nThe main goal was to train a neural network in a supervised\nimage from a noisy one. In this particular case, it was much ea\nnoisy image from a clean one than to clean a subset of noisy",
+    "lines": [
+      "There are several classic spatial filters for reducing or elimin.",
+      "from images. The mean filter, the median filter and the closing oj",
+      "used. The mean filter is a lowpass or smoothing filter that repl",
+      "the neighborhood mean. It reduces the image noise but blurs the",
+      "filter calculates the median of the pixel neighborhood for each p",
+      "blurring effect. Finally, the opening closing filter is a mathem:",
+      "that combines the same number of erosion and dilation morpho!",
+      "to eliminate small objects from images.",
+      "The main goal was to train a neural network in a supervised",
+      "image from a noisy one. In this particular case, it was much ea",
+      "noisy image from a clean one than to clean a subset of noisy"
+    ]
+  },
+  "Fontfse_TE": {
+    "full": "A new offline handwritten database for the Spanish language,\nsentences, has recently been developed: the Spartacus database\nRestricted-domain Task of Cursive Script). There were two mai\ncorpus. First of all, most databases do not contain Spanish senten\na widespread major language. Another important reason was to cre.\nrestricted tasks. These tasks are commonly used in practice and\nknowledge beyond the lexicon level in the recognition process.\nAs the Spartacus database consisted mainly of short sentence\nparagraphs, the writers were asked to copy a set of sentences in fixe\nfields in the forms. Next figure shows one of the forms used in the\nforms also contain a brief set of instructions given to the writer.",
+    "lines": [
+      "A new offline handwritten database for the Spanish language,",
+      "sentences, has recently been developed: the Spartacus database",
+      "Restricted-domain Task of Cursive Script). There were two mai",
+      "corpus. First of all, most databases do not contain Spanish senten",
+      "a widespread major language. Another important reason was to cre.",
+      "restricted tasks. These tasks are commonly used in practice and",
+      "knowledge beyond the lexicon level in the recognition process.",
+      "As the Spartacus database consisted mainly of short sentence",
+      "paragraphs, the writers were asked to copy a set of sentences in fixe",
+      "fields in the forms. Next figure shows one of the forms used in the",
+      "forms also contain a brief set of instructions given to the writer."
+    ]
+  },
+  "Fontfse_TR": {
+    "full": "There exist several methods to design forms with fields to\nfields may be surrounded by bounding boxes, by light rectangles «\nmethods specify where to write and, therefore, minimize the effe\nwith other parts of the form. These guides can be located on a se\nis located below the form or they can be printed directly on the fo\nseparate sheet is much better from the point of view of the quality\nrequires giving more instructions and, more importantly, restricts\ntype of acquisition is used. Guiding rulers printed on the form are 17\nreason. Light rectangles can be removed more easily with filters tt\nhandwritten text touches the rulers. Nevertheless, other practical\naccount: The best way to print these light rectangles is in a differ",
+    "lines": [
+      "There exist several methods to design forms with fields to",
+      "fields may be surrounded by bounding boxes, by light rectangles «",
+      "methods specify where to write and, therefore, minimize the effe",
+      "with other parts of the form. These guides can be located on a se",
+      "is located below the form or they can be printed directly on the fo",
+      "separate sheet is much better from the point of view of the quality",
+      "requires giving more instructions and, more importantly, restricts",
+      "type of acquisition is used. Guiding rulers printed on the form are 17",
+      "reason. Light rectangles can be removed more easily with filters tt",
+      "handwritten text touches the rulers. Nevertheless, other practical",
+      "account: The best way to print these light rectangles is in a differ"
+    ]
+  },
+  "Fontfse_VA": {
+    "full": "There are several classic spatial filters for reducing or elimin\nfrom images. The mean filter, the median filter and the closing o\nused. The mean filter is a lowpass or smoothing filter that replace\nneighborhood mean. It reduces the image noise but blurs the imas\ncalculates the median of the pixel neighborhood for each pixel, th\neffect. Finally, the opening closing filter is a mathematical morphc\nthe same number of erosion and dilation morphological operations\nobjects from images.\nThe main goal was to train a neural network in a supervised\nimage from a noisy one. In this particular case, it was much easier\nimage from a clean one than to clean a subset of noisy images.",
+    "lines": [
+      "There are several classic spatial filters for reducing or elimin",
+      "from images. The mean filter, the median filter and the closing o",
+      "used. The mean filter is a lowpass or smoothing filter that replace",
+      "neighborhood mean. It reduces the image noise but blurs the imas",
+      "calculates the median of the pixel neighborhood for each pixel, th",
+      "effect. Finally, the opening closing filter is a mathematical morphc",
+      "the same number of erosion and dilation morphological operations",
+      "objects from images.",
+      "The main goal was to train a neural network in a supervised",
+      "image from a noisy one. In this particular case, it was much easier",
+      "image from a clean one than to clean a subset of noisy images."
+    ]
+  },
+  "Fontfsm_TE": {
+    "full": "A new offline handwritten database for the Spanish language,\nsentences, has recently been developed: the Spartacus database\nRestricted-domain Task of Cursive Script). There were two mai\ncorpus. First of all, most databases do not contain Spanish sentenc\na widespread major language. Another important reason was to cre:\nrestricted tasks. These tasks are commonly used in practice and\nknowledge beyond the lexicon level in the recognition process.\nAs the Spartacus database consisted mainly of short sentence\nparagraphs, the writers were asked to copy a set of sentences in fixec\nfields in the forms. Next figure shows one of the forms used in the\nforms also contain a brief set of instructions given to the writer.",
+    "lines": [
+      "A new offline handwritten database for the Spanish language,",
+      "sentences, has recently been developed: the Spartacus database",
+      "Restricted-domain Task of Cursive Script). There were two mai",
+      "corpus. First of all, most databases do not contain Spanish sentenc",
+      "a widespread major language. Another important reason was to cre:",
+      "restricted tasks. These tasks are commonly used in practice and",
+      "knowledge beyond the lexicon level in the recognition process.",
+      "As the Spartacus database consisted mainly of short sentence",
+      "paragraphs, the writers were asked to copy a set of sentences in fixec",
+      "fields in the forms. Next figure shows one of the forms used in the",
+      "forms also contain a brief set of instructions given to the writer."
+    ]
+  },
+  "Fontfsm_TR": {
+    "full": "There exist several methods to design forms with fields to\nfields may be surrounded by bounding boxes, by light rectangles ¢\nmethods specify where to write and, therefore, minimize the effec\nwith other parts of the form. These guides can be located on a sé\nis located below the form or they can be printed directly on the for\nseparate sheet is much better from the point of view of the quality\nrequires giving more instructions and, more importantly, restricts\ntype of acquisition is used. Guiding rulers printed on the form are m\nreason. Light rectangles can be removed more easily with filters th\nhandwritten text touches the rulers. Nevertheless, other practical\naccount: The best way to print these light rectangles is in a differe",
+    "lines": [
+      "There exist several methods to design forms with fields to",
+      "fields may be surrounded by bounding boxes, by light rectangles ¢",
+      "methods specify where to write and, therefore, minimize the effec",
+      "with other parts of the form. These guides can be located on a sé",
+      "is located below the form or they can be printed directly on the for",
+      "separate sheet is much better from the point of view of the quality",
+      "requires giving more instructions and, more importantly, restricts",
+      "type of acquisition is used. Guiding rulers printed on the form are m",
+      "reason. Light rectangles can be removed more easily with filters th",
+      "handwritten text touches the rulers. Nevertheless, other practical",
+      "account: The best way to print these light rectangles is in a differe"
+    ]
+  },
+  "Fontfsm_VA": {
+    "full": "There are several classic spatial filters for reducing or elimin\nfrom images. The mean filter, the median filter and the closing o\nused. The mean filter is a lowpass or smoothing filter that replace\nneighborhood mean. It reduces the image noise but blurs the imag\ncalculates the median of the pixel neighborhood for each pixel, thi\neffect. Finally, the opening closing filter is a mathematical morphc\nthe same number of erosion and dilation morphological operations\nobjects from images.\nThe main goal was to train a neural network in a supervised\nimage from a noisy one. In this particular case, it was much easier\nimage from a clean one than to clean a subset of noisy images.",
+    "lines": [
+      "There are several classic spatial filters for reducing or elimin",
+      "from images. The mean filter, the median filter and the closing o",
+      "used. The mean filter is a lowpass or smoothing filter that replace",
+      "neighborhood mean. It reduces the image noise but blurs the imag",
+      "calculates the median of the pixel neighborhood for each pixel, thi",
+      "effect. Finally, the opening closing filter is a mathematical morphc",
+      "the same number of erosion and dilation morphological operations",
+      "objects from images.",
+      "The main goal was to train a neural network in a supervised",
+      "image from a noisy one. In this particular case, it was much easier",
+      "image from a clean one than to clean a subset of noisy images."
+    ]
+  },
+  "Fontfte_TE": {
+    "full": "A new offline handwritten database for the Spanish\nfull Spanish sentences, has recently been developed:\nstands for Spanish Restricted-domain Task of Cursive S\nmain reasons for creating this corpus. First of all, |\nSpanish sentences, even though Spanish is a widespread\nimportant reason was to create a corpus from semantic—\ntasks are commonly used in practice and allow the use\nbeyond the lexicon level in the recognition process.\nAs the Spartacus database consisted mainly of shor\ncontain long paragraphs, the writers were asked to cop\nfixed places: dedicated one-line fields in the forms.",
+    "lines": [
+      "A new offline handwritten database for the Spanish",
+      "full Spanish sentences, has recently been developed:",
+      "stands for Spanish Restricted-domain Task of Cursive S",
+      "main reasons for creating this corpus. First of all, |",
+      "Spanish sentences, even though Spanish is a widespread",
+      "important reason was to create a corpus from semantic—",
+      "tasks are commonly used in practice and allow the use",
+      "beyond the lexicon level in the recognition process.",
+      "As the Spartacus database consisted mainly of shor",
+      "contain long paragraphs, the writers were asked to cop",
+      "fixed places: dedicated one-line fields in the forms."
+    ]
+  },
+  "Fontfte_TR": {
+    "full": "There exist several methods to design forms with f7\ninstance, ftelds may be surrounded by bounding bozes,\nguiding rulers. These methods specify where to write\nthe effect of skew and overlapping with other parts of\ncan be located on a separate sheet of paper that is lo\nthey can be printed directly on the form. The use of\nzs much better from the point of view of the quality o\nrequires giving more instructions and, more importantl\ntasks where this type of acquisition is used. Guiding\nare more commonly used for this reason. Light rectang\neasily with filters than dark lines whenever the handw",
+    "lines": [
+      "There exist several methods to design forms with f7",
+      "instance, ftelds may be surrounded by bounding bozes,",
+      "guiding rulers. These methods specify where to write",
+      "the effect of skew and overlapping with other parts of",
+      "can be located on a separate sheet of paper that is lo",
+      "they can be printed directly on the form. The use of",
+      "zs much better from the point of view of the quality o",
+      "requires giving more instructions and, more importantl",
+      "tasks where this type of acquisition is used. Guiding",
+      "are more commonly used for this reason. Light rectang",
+      "easily with filters than dark lines whenever the handw"
+    ]
+  },
+  "Fontfte_VA": {
+    "full": "There are several classic spatial filters for reduc\nfrequency noise from images. The mean filter, the med\nopening filter are frequently used. The mean filter 7%\nfilter that replaces the pizel values with the netghbo\nthe image noise but blurs the image edges. The median\nof the pixel neighborhood for each pizel, thereby redu\nFinally, the opening closing filter ts a mathematical |\ncombines the same number of erosion and dilation morph\nto eliminate small objects from images.\nThe main goal was to train a neural network ina st\na clean image from a noisy one. In this particular ca",
+    "lines": [
+      "There are several classic spatial filters for reduc",
+      "frequency noise from images. The mean filter, the med",
+      "opening filter are frequently used. The mean filter 7%",
+      "filter that replaces the pizel values with the netghbo",
+      "the image noise but blurs the image edges. The median",
+      "of the pixel neighborhood for each pizel, thereby redu",
+      "Finally, the opening closing filter ts a mathematical |",
+      "combines the same number of erosion and dilation morph",
+      "to eliminate small objects from images.",
+      "The main goal was to train a neural network ina st",
+      "a clean image from a noisy one. In this particular ca"
+    ]
+  },
+  "Fontftm_TE": {
+    "full": "A new offline handwritten database for the Spanish\nfull Spanish sentences, has recently been developed: -\nstands for Spanish Restricted-domain Task of Cursive S\nmain reasons for creating this corpus. First of all,\nSpanish sentences, even though Spanish is a widespread\nimportant reason was to create a corpus from semantic-:\ntasks are commonly used in practice and allow the use |\nbeyond the lexicon level in the recognition process.\nAs the Spartacus database consisted mainly of short\ncontain long paragraphs, the writers were asked to cop:\nfixed places: dedicated one-line fields in the forms.",
+    "lines": [
+      "A new offline handwritten database for the Spanish",
+      "full Spanish sentences, has recently been developed: -",
+      "stands for Spanish Restricted-domain Task of Cursive S",
+      "main reasons for creating this corpus. First of all,",
+      "Spanish sentences, even though Spanish is a widespread",
+      "important reason was to create a corpus from semantic-:",
+      "tasks are commonly used in practice and allow the use |",
+      "beyond the lexicon level in the recognition process.",
+      "As the Spartacus database consisted mainly of short",
+      "contain long paragraphs, the writers were asked to cop:",
+      "fixed places: dedicated one-line fields in the forms."
+    ]
+  },
+  "Fontftm_TR": {
+    "full": "There exist several methods to design forms with f3\ninstance, fields may be surrounded by bounding boxes, |\nguiding rulers. These methods specify where to write\nthe effect of skew and overlapping with other parts of\ncan be located on a separate sheet of paper that is lo\nthey can be printed directly on the form. The use of |\nis much better from the point of view of the quality o:\nrequires giving more instructions and, more important].\ntasks where this type of acquisition is used. Guiding\nare more commonly used for this reason. Light rectang\neasily with filters than dark lines whenever the handw",
+    "lines": [
+      "There exist several methods to design forms with f3",
+      "instance, fields may be surrounded by bounding boxes, |",
+      "guiding rulers. These methods specify where to write",
+      "the effect of skew and overlapping with other parts of",
+      "can be located on a separate sheet of paper that is lo",
+      "they can be printed directly on the form. The use of |",
+      "is much better from the point of view of the quality o:",
+      "requires giving more instructions and, more important].",
+      "tasks where this type of acquisition is used. Guiding",
+      "are more commonly used for this reason. Light rectang",
+      "easily with filters than dark lines whenever the handw"
+    ]
+  },
+  "Fontftm_VA": {
+    "full": "There are several classic spatial filters for reduc\nfrequency noise from images. The mean filter, the med\nopening filter are frequently used. The mean filter i\nfilter that replaces the pixel values with the neighbo:\nthe image noise but blurs the image edges. The median\nof the pixel neighborhood for each pixel, thereby redu\nFinally, the opening closing filter is a mathematical :\ncombines the same number of erosion and dilation morph\nto eliminate small objects from images.\nThe main goal was to train a neural network in a su\na clean image from a noisy one. In this particular ca",
+    "lines": [
+      "There are several classic spatial filters for reduc",
+      "frequency noise from images. The mean filter, the med",
+      "opening filter are frequently used. The mean filter i",
+      "filter that replaces the pixel values with the neighbo:",
+      "the image noise but blurs the image edges. The median",
+      "of the pixel neighborhood for each pixel, thereby redu",
+      "Finally, the opening closing filter is a mathematical :",
+      "combines the same number of erosion and dilation morph",
+      "to eliminate small objects from images.",
+      "The main goal was to train a neural network in a su",
+      "a clean image from a noisy one. In this particular ca"
+    ]
+  },
+  "Fontnre_TE": {
+    "full": "A new offline handwritten database for the Spa\ncontains full Spanish sentences, has recently been d\ncus database (which stands for Spanish Restricted-do\nScript). There were two main reasons for creating\nall, most databases do not contain Spanish sentences.\nis a widespread major language. Another important 1\ncorpus from semantic-restricted tasks. These tasks ¢\npractice and allow the use of linguistic knowledge beyc\nthe recognition process.\nAs the Spartacus database consisted mainly of sh\nnot contain long paragraphs, the writers were asked to.\nin fixed places: dedicated one-line fields in the forms.\nof the forms used in the acquisition process. These fori\nset of instructions given to the writer.",
+    "lines": [
+      "A new offline handwritten database for the Spa",
+      "contains full Spanish sentences, has recently been d",
+      "cus database (which stands for Spanish Restricted-do",
+      "Script). There were two main reasons for creating",
+      "all, most databases do not contain Spanish sentences.",
+      "is a widespread major language. Another important 1",
+      "corpus from semantic-restricted tasks. These tasks ¢",
+      "practice and allow the use of linguistic knowledge beyc",
+      "the recognition process.",
+      "As the Spartacus database consisted mainly of sh",
+      "not contain long paragraphs, the writers were asked to.",
+      "in fixed places: dedicated one-line fields in the forms.",
+      "of the forms used in the acquisition process. These fori",
+      "set of instructions given to the writer."
+    ]
+  },
+  "Fontnre_TR": {
+    "full": "There exist several methods to design forms with\nFor instance, fields may be surrounded by bounding bo.\nor by guiding rulers. These methods specify where tc\nminimize the effect of skew and overlapping with ot\nThese guides can be located on a separate sheet of pape\nthe form or they can be printed directly on the form.\na separate sheet is much better from the point of vier\nscanned image, but requires giving more instructions a\nrestricts its use to tasks where this type of acquisit\nrulers printed on the form are more commonly used |\nrectangles can be removed more easily with filters tha\nthe handwritten text touches the rulers. Nevertheless,\nmust be taken into account: The best way to print\nis in a different color (i.e. light yellow); however, i\nexpensive than vrinting aray rectangles with black-an",
+    "lines": [
+      "There exist several methods to design forms with",
+      "For instance, fields may be surrounded by bounding bo.",
+      "or by guiding rulers. These methods specify where tc",
+      "minimize the effect of skew and overlapping with ot",
+      "These guides can be located on a separate sheet of pape",
+      "the form or they can be printed directly on the form.",
+      "a separate sheet is much better from the point of vier",
+      "scanned image, but requires giving more instructions a",
+      "restricts its use to tasks where this type of acquisit",
+      "rulers printed on the form are more commonly used |",
+      "rectangles can be removed more easily with filters tha",
+      "the handwritten text touches the rulers. Nevertheless,",
+      "must be taken into account: The best way to print",
+      "is in a different color (i.e. light yellow); however, i",
+      "expensive than vrinting aray rectangles with black-an"
+    ]
+  },
+  "Fontnre_VA": {
+    "full": "There are several classic spatial filters for reductr\nfrequency noise from images. The mean filter, the\nclosing opening filter are frequently used. The mean\nsmoothing filter that replaces the pixel values with th\nIt reduces the image noise but blurs the image edge\ncalculates the median of the pixel neighborhood for eac\ning the blurring effect. Finally, the opening closing fi\nmorphological filter that combines the same number o\nmorphological operations in order to eliminate small\nThe main goal was to train a neural network in a\nobtain a clean image from a noisy one. In this partic\neasier to obtain a simulated noisy image from a clea\nsubset of noisy images. The process for obtaining si\nfollows this scheme: This process requires images of\nrectangles) of the acquisition forms. which were obt",
+    "lines": [
+      "There are several classic spatial filters for reductr",
+      "frequency noise from images. The mean filter, the",
+      "closing opening filter are frequently used. The mean",
+      "smoothing filter that replaces the pixel values with th",
+      "It reduces the image noise but blurs the image edge",
+      "calculates the median of the pixel neighborhood for eac",
+      "ing the blurring effect. Finally, the opening closing fi",
+      "morphological filter that combines the same number o",
+      "morphological operations in order to eliminate small",
+      "The main goal was to train a neural network in a",
+      "obtain a clean image from a noisy one. In this partic",
+      "easier to obtain a simulated noisy image from a clea",
+      "subset of noisy images. The process for obtaining si",
+      "follows this scheme: This process requires images of",
+      "rectangles) of the acquisition forms. which were obt"
+    ]
+  },
+  "Fontnrm_TE": {
+    "full": "A new offline handwritten database for the Spa\ncontains full Spanish sentences, has recently been dé\ncus database (which stands for Spanish Restricted-do\nScript). There were two main reasons for creating th’\nmost databases do not contain Spanish sentences, e\\\na widespread major language. Another important re\ncorpus from semantic-restricted tasks. These tasks ¢\npractice and allow the use of linguistic knowledge be.\nin the recognition process.\nAs the Spartacus database consisted mainly of sh\nnot contain long paragraphs, the writers were asked to\nin fixed places: dedicated one-line fields in the forms.\nof the forms used in the acquisition process. These for\nset of instructions given to the writer.",
+    "lines": [
+      "A new offline handwritten database for the Spa",
+      "contains full Spanish sentences, has recently been dé",
+      "cus database (which stands for Spanish Restricted-do",
+      "Script). There were two main reasons for creating th’",
+      "most databases do not contain Spanish sentences, e\\",
+      "a widespread major language. Another important re",
+      "corpus from semantic-restricted tasks. These tasks ¢",
+      "practice and allow the use of linguistic knowledge be.",
+      "in the recognition process.",
+      "As the Spartacus database consisted mainly of sh",
+      "not contain long paragraphs, the writers were asked to",
+      "in fixed places: dedicated one-line fields in the forms.",
+      "of the forms used in the acquisition process. These for",
+      "set of instructions given to the writer."
+    ]
+  },
+  "Fontnrm_TR": {
+    "full": "There exist several methods to design forms with fic\ninstance, fields may be surrounded by bounding box«\nor by guiding rulers. These methods specify where tc\nminimize the effect of skew and overlapping with otl\nThese guides can be located on a separate sheet of\nbelow the form or they can be printed directly on 1\nguides on a separate sheet is much better from the\nquality of the scanned image, but requires giving 1\nmore importantly, restricts its use to tasks where th\nis used. Guiding rulers printed on the form are moi\nthis reason. Light rectangles can be removed more e\ndark lines whenever the handwritten text touches the\nother practical issues must be taken into account: 7\nthese light rectangles is in a different color (i.e. li\nthis approach is more expensive than printing gray 1",
+    "lines": [
+      "There exist several methods to design forms with fic",
+      "instance, fields may be surrounded by bounding box«",
+      "or by guiding rulers. These methods specify where tc",
+      "minimize the effect of skew and overlapping with otl",
+      "These guides can be located on a separate sheet of",
+      "below the form or they can be printed directly on 1",
+      "guides on a separate sheet is much better from the",
+      "quality of the scanned image, but requires giving 1",
+      "more importantly, restricts its use to tasks where th",
+      "is used. Guiding rulers printed on the form are moi",
+      "this reason. Light rectangles can be removed more e",
+      "dark lines whenever the handwritten text touches the",
+      "other practical issues must be taken into account: 7",
+      "these light rectangles is in a different color (i.e. li",
+      "this approach is more expensive than printing gray 1"
+    ]
+  },
+  "Fontnrm_VA": {
+    "full": "There are several classic spatial filters for reducir\nfrequency noise from images. The mean filter, the |\nclosing opening filter are frequently used. The mean\nsmoothing filter that replaces the pixel values with th\nIt reduces the image noise but blurs the image edges.\nculates the median of the pixel neighborhood for each\ning the blurring effect. Finally, the opening closing fil\nmorphological filter that combines the same number ¢\nmorphological operations in order to eliminate small |\nThe main goal was to train a neural network in a\nobtain a clean image from a noisy one. In this partici\neasier to obtain a simulated noisy image from a clea\nsubset of noisy images. The process for obtaining si\nfollows this scheme: This process requires images of\nrectangles) of the acquisition forms, which were obts",
+    "lines": [
+      "There are several classic spatial filters for reducir",
+      "frequency noise from images. The mean filter, the |",
+      "closing opening filter are frequently used. The mean",
+      "smoothing filter that replaces the pixel values with th",
+      "It reduces the image noise but blurs the image edges.",
+      "culates the median of the pixel neighborhood for each",
+      "ing the blurring effect. Finally, the opening closing fil",
+      "morphological filter that combines the same number ¢",
+      "morphological operations in order to eliminate small |",
+      "The main goal was to train a neural network in a",
+      "obtain a clean image from a noisy one. In this partici",
+      "easier to obtain a simulated noisy image from a clea",
+      "subset of noisy images. The process for obtaining si",
+      "follows this scheme: This process requires images of",
+      "rectangles) of the acquisition forms, which were obts"
+    ]
+  },
+  "Fontnse_TE": {
+    "full": "A new offline handwritten database for the Spanish la\nfull Spanish sentences, has recently been developed: t\n(which stands for Spanish Restricted-domain Task of (\nwere two main reasons for creating this corpus. First\ndo not contain Spanish sentences, even though Spanish\nlanguage. Another important reason was to create a\nrestricted tasks. These tasks are commonly used in pra\nof linguistic knowledge beyond the lexicon level in the r\nAs the Spartacus database consisted mainly of short\ncontain long paragraphs, the writers were asked to cop\nfixed places: dedicated one-line fields in the forms. Ne\nthe forms used in the acquisition process. These forms.\nof instructions given to the writer.",
+    "lines": [
+      "A new offline handwritten database for the Spanish la",
+      "full Spanish sentences, has recently been developed: t",
+      "(which stands for Spanish Restricted-domain Task of (",
+      "were two main reasons for creating this corpus. First",
+      "do not contain Spanish sentences, even though Spanish",
+      "language. Another important reason was to create a",
+      "restricted tasks. These tasks are commonly used in pra",
+      "of linguistic knowledge beyond the lexicon level in the r",
+      "As the Spartacus database consisted mainly of short",
+      "contain long paragraphs, the writers were asked to cop",
+      "fixed places: dedicated one-line fields in the forms. Ne",
+      "the forms used in the acquisition process. These forms.",
+      "of instructions given to the writer."
+    ]
+  },
+  "Fontnse_TR": {
+    "full": "There exist several methods to design forms with fie\ninstance, fields may be surrounded by bounding boxes, b\nguiding rulers. These methods specify where to write ai\nthe effect of skew and overlapping with other parts of t\ncan be located on a separate sheet of paper that is loc.\nthey can be printed directly on the form. The use of gui\nis much better from the point of view of the quality of t\nrequires giving more instructions and, more importantly, |\nwhere this type of acquisition is used. Guiding rulers p\nmore commonly used for this reason. Light rectangles\neasily with filters than dark lines whenever the handw\nrulers. Nevertheless, other practical issues must be ta\nbest way to print these light rectangles is in a different «\nhowever, this approach is more expensive than printin,\nblack-and-white laser printers. A more economical anc",
+    "lines": [
+      "There exist several methods to design forms with fie",
+      "instance, fields may be surrounded by bounding boxes, b",
+      "guiding rulers. These methods specify where to write ai",
+      "the effect of skew and overlapping with other parts of t",
+      "can be located on a separate sheet of paper that is loc.",
+      "they can be printed directly on the form. The use of gui",
+      "is much better from the point of view of the quality of t",
+      "requires giving more instructions and, more importantly, |",
+      "where this type of acquisition is used. Guiding rulers p",
+      "more commonly used for this reason. Light rectangles",
+      "easily with filters than dark lines whenever the handw",
+      "rulers. Nevertheless, other practical issues must be ta",
+      "best way to print these light rectangles is in a different «",
+      "however, this approach is more expensive than printin,",
+      "black-and-white laser printers. A more economical anc"
+    ]
+  },
+  "Fontnse_VA": {
+    "full": "There are several classic spatial filters for reducing «\nquency noise from images. The mean filter, the media\nopening filter are frequently used. The mean filter is a\nfilter that replaces the pixel values with the neighborhoo\nimage noise but blurs the image edges. The median filte\nof the pixel neighborhood for each pixel, thereby reduc\nFinally, the opening closing filter is a mathematical m\ncombines the same number of erosion and dilation mor\norder to eliminate small objects from images.\nThe main goal was to train a neural network in a supe\na clean image from a noisy one. In this particular case,\nobtain a simulated noisy image from a clean one thai\nnoisy images. The process for obtaining simulated no\nscheme: This process requires images of the backgrout\nthe acquisition forms, which were obtained by printing .",
+    "lines": [
+      "There are several classic spatial filters for reducing «",
+      "quency noise from images. The mean filter, the media",
+      "opening filter are frequently used. The mean filter is a",
+      "filter that replaces the pixel values with the neighborhoo",
+      "image noise but blurs the image edges. The median filte",
+      "of the pixel neighborhood for each pixel, thereby reduc",
+      "Finally, the opening closing filter is a mathematical m",
+      "combines the same number of erosion and dilation mor",
+      "order to eliminate small objects from images.",
+      "The main goal was to train a neural network in a supe",
+      "a clean image from a noisy one. In this particular case,",
+      "obtain a simulated noisy image from a clean one thai",
+      "noisy images. The process for obtaining simulated no",
+      "scheme: This process requires images of the backgrout",
+      "the acquisition forms, which were obtained by printing ."
+    ]
+  },
+  "Fontnsm_TE": {
+    "full": "A new offline handwritten database for the Spanish la\nfull Spanish sentences, has recently been developed: t\n(which stands for Spanish Restricted-domain Task of (\nwere two main reasons for creating this corpus. First\ndo not contain Spanish sentences, even though Spanish\nlanguage. Another important reason was to create a\nrestricted tasks. These tasks are commonly used in pra\nof linguistic knowledge beyond the lexicon level in the re\nAs the Spartacus database consisted mainly of short\ncontain long paragraphs, the writers were asked to cop\nfixed places: dedicated one-line fields in the forms. Ne\nthe forms used in the acquisition process. These forms |\nof instructions given to the writer.",
+    "lines": [
+      "A new offline handwritten database for the Spanish la",
+      "full Spanish sentences, has recently been developed: t",
+      "(which stands for Spanish Restricted-domain Task of (",
+      "were two main reasons for creating this corpus. First",
+      "do not contain Spanish sentences, even though Spanish",
+      "language. Another important reason was to create a",
+      "restricted tasks. These tasks are commonly used in pra",
+      "of linguistic knowledge beyond the lexicon level in the re",
+      "As the Spartacus database consisted mainly of short",
+      "contain long paragraphs, the writers were asked to cop",
+      "fixed places: dedicated one-line fields in the forms. Ne",
+      "the forms used in the acquisition process. These forms |",
+      "of instructions given to the writer."
+    ]
+  },
+  "Fontnsm_TR": {
+    "full": "There exist several methods to design forms with fie\ninstance, fields may be surrounded by bounding boxes, b\nguiding rulers. These methods specify where to write a1\nthe effect of skew and overlapping with other parts of t\ncan be located on a separate sheet of paper that is loc:\nthey can be printed directly on the form. The use of gui\nis much better from the point of view of the quality of t\nrequires giving more instructions and, more importantly, |\nwhere this type of acquisition is used. Guiding rulers p\nmore commonly used for this reason. Light rectangles\neasily with filters than dark lines whenever the handwr\nrulers. Nevertheless, other practical issues must be tal\nbest way to print these light rectangles is in a different «\nhowever, this approach is more expensive than printin,\nblack-and-white laser printers. A more economical anc",
+    "lines": [
+      "There exist several methods to design forms with fie",
+      "instance, fields may be surrounded by bounding boxes, b",
+      "guiding rulers. These methods specify where to write a1",
+      "the effect of skew and overlapping with other parts of t",
+      "can be located on a separate sheet of paper that is loc:",
+      "they can be printed directly on the form. The use of gui",
+      "is much better from the point of view of the quality of t",
+      "requires giving more instructions and, more importantly, |",
+      "where this type of acquisition is used. Guiding rulers p",
+      "more commonly used for this reason. Light rectangles",
+      "easily with filters than dark lines whenever the handwr",
+      "rulers. Nevertheless, other practical issues must be tal",
+      "best way to print these light rectangles is in a different «",
+      "however, this approach is more expensive than printin,",
+      "black-and-white laser printers. A more economical anc"
+    ]
+  },
+  "Fontnsm_VA": {
+    "full": "There are several classic spatial filters for reducing «\nquency noise from images. The mean filter, the media\nopening filter are frequently used. The mean filter is a\nfilter that replaces the pixel values with the neighborhoo\nimage noise but blurs the image edges. The median filte\nof the pixel neighborhood for each pixel, thereby reduc\nFinally, the opening closing filter is a mathematical m\ncombines the same number of erosion and dilation morp\norder to eliminate small objects from images.\nThe main goal was to train a neural network in a supe!\na clean image from a noisy one. In this particular case,\nobtain a simulated noisy image from a clean one thar\nnoisy images. The process for obtaining simulated no\nscheme: This process requires images of the backgrour\nthe acquisition forms, which were obtained by printing ;",
+    "lines": [
+      "There are several classic spatial filters for reducing «",
+      "quency noise from images. The mean filter, the media",
+      "opening filter are frequently used. The mean filter is a",
+      "filter that replaces the pixel values with the neighborhoo",
+      "image noise but blurs the image edges. The median filte",
+      "of the pixel neighborhood for each pixel, thereby reduc",
+      "Finally, the opening closing filter is a mathematical m",
+      "combines the same number of erosion and dilation morp",
+      "order to eliminate small objects from images.",
+      "The main goal was to train a neural network in a supe!",
+      "a clean image from a noisy one. In this particular case,",
+      "obtain a simulated noisy image from a clean one thar",
+      "noisy images. The process for obtaining simulated no",
+      "scheme: This process requires images of the backgrour",
+      "the acquisition forms, which were obtained by printing ;"
+    ]
+  },
+  "Fontnte_TE": {
+    "full": "A new offline handwritten database for thé\nwhich contains full Spanish sentences, has re\nthe Spartacus database (which stands for Spai\nTask of Cursive Script). There were two mair\nthis corpus. First of all, most databases di\nsentences, even though Spanish is a widespre:\nimportant reason was to create a corpus from\ntasks. These tasks are commonly used in pra\nuse of linguistic knowledge beyond the lexic:\nprocess.\nAs the Spartacus database consisted mainli\nand did not contain long paragraphs, the wrt\na set of sentences in fixed places: dedicate\nthe forms. Next figure shows one of the fori\nprocess. These forms also contain a brief sé",
+    "lines": [
+      "A new offline handwritten database for thé",
+      "which contains full Spanish sentences, has re",
+      "the Spartacus database (which stands for Spai",
+      "Task of Cursive Script). There were two mair",
+      "this corpus. First of all, most databases di",
+      "sentences, even though Spanish is a widespre:",
+      "important reason was to create a corpus from",
+      "tasks. These tasks are commonly used in pra",
+      "use of linguistic knowledge beyond the lexic:",
+      "process.",
+      "As the Spartacus database consisted mainli",
+      "and did not contain long paragraphs, the wrt",
+      "a set of sentences in fixed places: dedicate",
+      "the forms. Next figure shows one of the fori",
+      "process. These forms also contain a brief sé"
+    ]
+  },
+  "Fontnte_TR": {
+    "full": "There exist several methods to design forn\nfilled in. For instance, fields may be surr¢\nby light rectangles or by guiding rulers. TI}\nwhere to write and, therefore, minimize the «\nwith other parts of the form. These guides «\nseparate sheet of paper that is located belo\nbe printed directly on the form. The use of\nsheet z~s much better from the point of view «\nscanned image, but requires giving more insti\nrestricts its use to tasks where this type o,\nGuiding rulers printed on the form are more «\nreason. Light rectangles can be removed mor:\nthan dark lines whenever the handwritten tezi\nNevertheless, other practical tissues must be\nThe best way to print these light rectangles",
+    "lines": [
+      "There exist several methods to design forn",
+      "filled in. For instance, fields may be surr¢",
+      "by light rectangles or by guiding rulers. TI}",
+      "where to write and, therefore, minimize the «",
+      "with other parts of the form. These guides «",
+      "separate sheet of paper that is located belo",
+      "be printed directly on the form. The use of",
+      "sheet z~s much better from the point of view «",
+      "scanned image, but requires giving more insti",
+      "restricts its use to tasks where this type o,",
+      "Guiding rulers printed on the form are more «",
+      "reason. Light rectangles can be removed mor:",
+      "than dark lines whenever the handwritten tezi",
+      "Nevertheless, other practical tissues must be",
+      "The best way to print these light rectangles"
+    ]
+  },
+  "Fontnte_VA": {
+    "full": "There are several classic spatial filters\nhigh frequency noise from images. The mean |;\nand the closing opening filter are frequentl\nts a lowpass or smoothing filter that replace\nwith the neighborhood mean. It reduces the °\nthe tmage edges. The median filter calculate.\npizel neighborhood for each pixel, thereby re\neffect. Finally, the opening closing filter\nfilter that combines the same number of eros’\noperations in order to eliminate small objeci\nThe main goal was to train a neural networ\nto obtain a clean image from a noisy one. I1\nat was much easter to obtain a simulated nov:\none than to clean a subset of noisy images.\nstmulated notsy tmages follows thts scheme:",
+    "lines": [
+      "There are several classic spatial filters",
+      "high frequency noise from images. The mean |;",
+      "and the closing opening filter are frequentl",
+      "ts a lowpass or smoothing filter that replace",
+      "with the neighborhood mean. It reduces the °",
+      "the tmage edges. The median filter calculate.",
+      "pizel neighborhood for each pixel, thereby re",
+      "effect. Finally, the opening closing filter",
+      "filter that combines the same number of eros’",
+      "operations in order to eliminate small objeci",
+      "The main goal was to train a neural networ",
+      "to obtain a clean image from a noisy one. I1",
+      "at was much easter to obtain a simulated nov:",
+      "one than to clean a subset of noisy images.",
+      "stmulated notsy tmages follows thts scheme:"
+    ]
+  },
+  "Fontntm_TE": {
+    "full": "A new offline handwritten database for the\nwhich contains full Spanish sentences, has re\nthe Spartacus database (which stands for Spar\nTask of Cursive Script). There were two mair\nthis corpus. First of all, most databases dc\nsentences, even though Spanish is a widesprez\nimportant reason was to create a corpus from\ntasks. These tasks are commonly used in prac\nuse of linguistic knowledge beyond the lexic«\nprocess.\nAs the Spartacus database consisted mainl}\nand did not contain long paragraphs, the writ\na set of sentences in fixed places: dedicate\nthe forms. Next figure shows one of the forn\nprocess. These forms also contain a brief sé",
+    "lines": [
+      "A new offline handwritten database for the",
+      "which contains full Spanish sentences, has re",
+      "the Spartacus database (which stands for Spar",
+      "Task of Cursive Script). There were two mair",
+      "this corpus. First of all, most databases dc",
+      "sentences, even though Spanish is a widesprez",
+      "important reason was to create a corpus from",
+      "tasks. These tasks are commonly used in prac",
+      "use of linguistic knowledge beyond the lexic«",
+      "process.",
+      "As the Spartacus database consisted mainl}",
+      "and did not contain long paragraphs, the writ",
+      "a set of sentences in fixed places: dedicate",
+      "the forms. Next figure shows one of the forn",
+      "process. These forms also contain a brief sé"
+    ]
+  },
+  "Fontntm_TR": {
+    "full": "There exist several methods to design forn\nfilled in. For instance, fields may be surrc\nby light rectangles or by guiding rulers. TI\nwhere to write and, therefore, minimize the «\nwith other parts of the form. These guides «\nseparate sheet of paper that is located belot\nbe printed directly on the form. The use of\nsheet is much better from the point of view «\nscanned image, but requires giving more insti\nrestricts its use to tasks where this type of\nGuiding rulers printed on the form are more «\nreason. Light rectangles can be removed more\nthan dark lines whenever the handwritten text\nNevertheless, other practical issues must be\nThe best way to print these light rectangles",
+    "lines": [
+      "There exist several methods to design forn",
+      "filled in. For instance, fields may be surrc",
+      "by light rectangles or by guiding rulers. TI",
+      "where to write and, therefore, minimize the «",
+      "with other parts of the form. These guides «",
+      "separate sheet of paper that is located belot",
+      "be printed directly on the form. The use of",
+      "sheet is much better from the point of view «",
+      "scanned image, but requires giving more insti",
+      "restricts its use to tasks where this type of",
+      "Guiding rulers printed on the form are more «",
+      "reason. Light rectangles can be removed more",
+      "than dark lines whenever the handwritten text",
+      "Nevertheless, other practical issues must be",
+      "The best way to print these light rectangles"
+    ]
+  },
+  "Fontntm_VA": {
+    "full": "There are several classic spatial filters\nhigh frequency noise from images. The mean {\nand the closing opening filter are frequently}\nis a lowpass or smoothing filter that replace\nwith the neighborhood mean. It reduces the j\nthe image edges. The median filter calculate\npixel neighborhood for each pixel, thereby re\neffect. Finally, the opening closing filter\nfilter that combines the same number of eros:\noperations in order to eliminate small object\nThe main goal was to train a neural netwo1\nto obtain a clean image from a noisy one. Ir\nit was much easier to obtain a simulated nois\none than to clean a subset of noisy images.\nsimulated noisy images follows this scheme:",
+    "lines": [
+      "There are several classic spatial filters",
+      "high frequency noise from images. The mean {",
+      "and the closing opening filter are frequently}",
+      "is a lowpass or smoothing filter that replace",
+      "with the neighborhood mean. It reduces the j",
+      "the image edges. The median filter calculate",
+      "pixel neighborhood for each pixel, thereby re",
+      "effect. Finally, the opening closing filter",
+      "filter that combines the same number of eros:",
+      "operations in order to eliminate small object",
+      "The main goal was to train a neural netwo1",
+      "to obtain a clean image from a noisy one. Ir",
+      "it was much easier to obtain a simulated nois",
+      "one than to clean a subset of noisy images.",
+      "simulated noisy images follows this scheme:"
+    ]
+  }
+}
